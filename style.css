@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(56, 243, 31);
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+}
